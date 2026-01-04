@@ -36,7 +36,7 @@ module.exports = {
   },
   TWITTER: function (videoDescription, videoTitle,pushname) {
     return `
-${config.BOTNAME || "> [⚡ 𝗫Ｐ𝗥Ｏ𝗩𝗘𝗥𝗖𝗘 〽ᴅ ⚡]"}
+${config.BOTNAME || "> [❤ 𝙎𝙚𝙣𝙪𝙧𝙖 𝙈𝘿 ❤]"}
 > 𝙷𝚎𝚕𝚕𝚘 𝚃𝚑𝚎𝚛𝚎 *${pushname}*
 > [ T W I T T E R  D L ]
 > =======================
